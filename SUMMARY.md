@@ -1,6 +1,11 @@
 # Table of contents
 
-* [20 章高级项目管理](README.md)
+* [1 章 信息化发展](README.md)
+  * [1.1 信息与信息化](1-zhang-xin-xi-hua-fa-zhan/1.1-xin-xi-yu-xin-xi-hua/README.md)
+    * [1.1.3 信息化](1-zhang-xin-xi-hua-fa-zhan/1.1-xin-xi-yu-xin-xi-hua/1.1.3-xin-xi-hua.md)
+  * [1.5 数字化转型与元宇宙](1-zhang-xin-xi-hua-fa-zhan/1.5-shu-zi-hua-zhuan-xing-yu-yuan-yu-zhou/README.md)
+    * [1.5.1 数字化转型](1-zhang-xin-xi-hua-fa-zhan/1.5-shu-zi-hua-zhuan-xing-yu-yuan-yu-zhou/1.5.1-shu-zi-hua-zhuan-xing.md)
+* [20 章高级项目管理](<README (1).md>)
   * [20.5 项目管理实践模型](20-zhang-gao-ji-xiang-mu-guan-li/20.5-xiang-mu-guan-li-shi-jian-mo-xing/README.md)
     * [20.5.1 CMMI模型](20-zhang-gao-ji-xiang-mu-guan-li/20.5-xiang-mu-guan-li-shi-jian-mo-xing/20.5.1-cmmi-mo-xing.md)
     * [20.5.2 PRINCE2模型](20-zhang-gao-ji-xiang-mu-guan-li/20.5-xiang-mu-guan-li-shi-jian-mo-xing/20.5.2-prince2-mo-xing.md)
@@ -13,5 +18,4 @@
     * [21.2.5 图与网络](21-zhang-xiang-mu-guan-li-ke-xue-ji-chu/21.2-yun-chou-xue/21.2.5-tu-yu-wang-luo.md)
     * [21.2.6 博弈论](21-zhang-xiang-mu-guan-li-ke-xue-ji-chu/21.2-yun-chou-xue/21.2.6-bo-yi-lun.md)
     * [21.2.7 决策分析](21-zhang-xiang-mu-guan-li-ke-xue-ji-chu/21.2-yun-chou-xue/21.2.7-jue-ce-fen-xi.md)
-* [Page](page.md)
 * [Page3](page3.md)
